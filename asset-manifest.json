@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movieplanet/static/css/main.3d852cf3.css",
-    "main.js": "/movieplanet/static/js/main.72165459.js",
-    "static/media/boxicons.svg": "/movieplanet/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/footer-bg.jpg": "/movieplanet/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/movieplanet/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/movieplanet/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/movieplanet/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/movieplanet.png": "/movieplanet/static/media/movieplanet.d1c6f2f3f65c3f4f6de4.png",
-    "static/media/boxicons.woff2": "/movieplanet/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "index.html": "/movieplanet/index.html",
-    "main.3d852cf3.css.map": "/movieplanet/static/css/main.3d852cf3.css.map",
-    "main.72165459.js.map": "/movieplanet/static/js/main.72165459.js.map"
+    "main.css": "/static/css/main.d696ed83.css",
+    "main.js": "/static/js/main.bb715369.js",
+    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/footer-bg.jpg": "/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/movieplanet.png": "/static/media/movieplanet.d1c6f2f3f65c3f4f6de4.png",
+    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/index.html",
+    "main.d696ed83.css.map": "/static/css/main.d696ed83.css.map",
+    "main.bb715369.js.map": "/static/js/main.bb715369.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d852cf3.css",
-    "static/js/main.72165459.js"
+    "static/css/main.d696ed83.css",
+    "static/js/main.bb715369.js"
   ]
 }
