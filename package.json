@@ -1,7 +1,7 @@
 {
   "name": "movieplanet",
   "version": "0.1.0",
-  "homepage": "https://ayubabdiaziz.github.io/movieplanet",
+  "homepage": "https://ayubabdiaziz.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
