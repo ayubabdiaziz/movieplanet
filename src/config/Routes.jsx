@@ -9,6 +9,10 @@ const Routess = () => {
     return (
         <Routes>
             <Route 
+                path='/'
+                element={<Home />}
+            />
+            <Route 
                 path='/:category/search/:keywrd'
                 element={<Catalog />}
             />
@@ -19,10 +23,6 @@ const Routess = () => {
             <Route 
                 path='/:category'
                 element={<Catalog />}
-            />
-            <Route 
-                path='/'
-                element={<Home />}
             />
         </Routes>
     );
